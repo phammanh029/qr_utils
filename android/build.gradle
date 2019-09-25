@@ -1,4 +1,4 @@
-group 'com.aeologic.adhoc.qr_utils'
+group 'com.aeologic.adhoc.qr__utils'
 version '1.0-SNAPSHOT'
 
 buildscript {
